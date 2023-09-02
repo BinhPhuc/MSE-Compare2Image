@@ -1,0 +1,1 @@
+Using Mean Square Error (MSE) to compare two images having the same dimensions and number of channels.
